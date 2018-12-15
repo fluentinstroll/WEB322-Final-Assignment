@@ -1,14 +1,4 @@
-﻿
-/*********************************************************************************
-* WEB322 – Assignment 06
-* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part
-* of this assignment has been copied manually or electronically from any other source
-* (including 3rd party web sites) or distributed to other students.
-*
-* Name: Raymond Rambo Student ID: 122082175 Date: 2018/12/11
-*
-* Online (Heroku) URL: https://damp-journey-74238.herokuapp.com/
-********************************************************************************/ 
+ 
 
 var express = require("express");
 var app = express();
