@@ -1,0 +1,18 @@
+
+h2.coming-soon-header {
+    color: silver;
+    font-family: fantasy;
+}
+
+h2.welcome-header {
+    color: silver;
+    font-family: fantasy;
+}
+
+p#coming-soon {
+    color: blue;
+}
+
+p.welcome {
+    color: blue;
+}
